@@ -1,11 +1,11 @@
-package yhscy.cc.hello;
+package cc.yhscy.hello;
 
 /**
  * @author ShiChun
- * @date 2022/12/3 16:32
+ * @date 2022/12/3 17:30
  */
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Don't give up halfway");
+        System.out.println("keep moving");
     }
 }
